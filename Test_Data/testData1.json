@@ -1,0 +1,22 @@
+[
+    {
+        "fName": "Bharath",
+        "mName": "Reddy",
+        "lName": "Evuri",
+        "email": "testcodeautomate@gmail.com"
+    },
+
+    {
+        "fName": "Bharath11",
+        "mName": "Reddy11",
+        "lName": "Evuri11",
+        "email": "testcodeautomate11@gmail.com"
+    },
+
+    {
+        "fName": "Bharath22",
+        "mName": "Reddy22",
+        "lName": "Evuri22",
+        "email": "testcodeautomate22@gmail.com"
+    }
+]
